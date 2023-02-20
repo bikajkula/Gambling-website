@@ -1,7 +1,6 @@
-# Kladionica
+# PHP application inspired by betting sites.
 
-PHP aplikacija inspirisana sajtovima kladionica.
-Svaka ponudjena utakmica ima tri moguca ishoda ( 1- pobedjuje domacin, X - nereseno, 2 - pobedjuje gost).
-Nakon unesenog uloga i potvrde tiketa, izlazi moguci dobitak i celi tiket biva upisan u bazu.
+Each offered match has three possible outcomes (1- home wins, X - draw, 2 - guest wins).
+After entering the stake and confirming the ticket, the possible winnings are displayed and the entire ticket is entered into the database.
 
-MySql baza se nalazi u sql folderu.
+MySql database is located in the sql folder.
